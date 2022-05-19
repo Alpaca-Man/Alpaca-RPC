@@ -1,0 +1,37 @@
+{
+  "properties": [
+    {
+      "name": "alpaca.identity",
+      "type": "java.lang.String",
+      "description": "身份."
+    },{
+      "name": "alpaca.registry-type",
+      "type": "java.lang.String",
+      "description": "注册中心类型.",
+      "defaultValue": "zookeeper"
+    },{
+      "name": "alpaca.registry-url",
+      "type": "java.lang.String",
+      "description": "注册中心ip:port."
+    },{
+      "name": "alpaca.net-port",
+      "type": "java.lang.Integer",
+      "description": "Provider的网络通信端口."
+    },{
+      "name": "alpaca.serializer",
+      "type": "java.lang.String",
+      "description": "通信序列化方式.",
+      "defaultValue": "hessian"
+    }, {
+      "name": "alpaca.weight",
+      "type": "java.lang.Integer",
+      "description": "Provider权重.",
+      "defaultValue": 10
+    }, {
+      "name": "alpaca.load-balance-strategy",
+      "type": "java.lang.String",
+      "description": "Consumer负载均衡策略.",
+      "defaultValue": "random"
+    }
+  ]
+}

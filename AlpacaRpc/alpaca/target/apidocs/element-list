@@ -1,0 +1,14 @@
+io.gitee.birdsofprey.annotation
+io.gitee.birdsofprey.config
+io.gitee.birdsofprey.factory
+io.gitee.birdsofprey.handler
+io.gitee.birdsofprey.listener
+io.gitee.birdsofprey.net
+io.gitee.birdsofprey.properties
+io.gitee.birdsofprey.protocol
+io.gitee.birdsofprey.registry
+io.gitee.birdsofprey.registry.impl
+io.gitee.birdsofprey.serializer
+io.gitee.birdsofprey.serializer.impl
+io.gitee.birdsofprey.strategy
+io.gitee.birdsofprey.strategy.impl

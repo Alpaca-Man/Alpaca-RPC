@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d98a9ce6-3f2c-4c51-8f68-4e9602f7308a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../provider1/src/main/java/com/lyb/provider/service/impl/HelloServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../provider1/src/main/java/com/lyb/provider/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../provider2/src/main/java/com/lyb/provider2/service/impl/HelloServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../provider2/src/main/java/com/lyb/provider2/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/client.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/src/main/java/com/lyb/ClientApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lyb/ClientApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/src/main/java/com/lyb/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lyb/controller/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/target/classes/com/lyb/ClientApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lyb/ClientApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/target/classes/com/lyb/controller/IndexController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lyb/controller/IndexController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/target/classes/com/lyb/controller/TestHello.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lyb/controller/TestHello.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/target/classes/com/lyb/controller/TestUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lyb/controller/TestUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/target/test-classes/META-INF/client.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/META-INF/client.kotlin_module" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="27e4B43eIrjWpxGtpdtaWscSn4z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d98a9ce6-3f2c-4c51-8f68-4e9602f7308a" name="Default Changelist" comment="" />
+      <created>1649667078683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649667078683</updated>
+      <workItem from="1649667082290" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1649667088784">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1649667088784" />
+  </component>
+</project>

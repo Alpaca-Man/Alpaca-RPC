@@ -1,0 +1,58 @@
+{
+  "groups": [
+    {
+      "name": "alpaca",
+      "type": "io.gitee.birdsofprey.properties.AlpacaProperties",
+      "sourceType": "io.gitee.birdsofprey.properties.AlpacaProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "alpaca.identity",
+      "type": "java.lang.String",
+      "description": "身份.",
+      "sourceType": "io.gitee.birdsofprey.properties.AlpacaProperties"
+    },
+    {
+      "name": "alpaca.load-balance-strategy",
+      "type": "java.lang.String",
+      "description": "Consumer负载均衡策略.",
+      "sourceType": "io.gitee.birdsofprey.properties.AlpacaProperties",
+      "defaultValue": "random"
+    },
+    {
+      "name": "alpaca.net-port",
+      "type": "java.lang.Integer",
+      "description": "Provider的网络通信端口.",
+      "sourceType": "io.gitee.birdsofprey.properties.AlpacaProperties"
+    },
+    {
+      "name": "alpaca.registry-type",
+      "type": "java.lang.String",
+      "description": "注册中心类型.",
+      "sourceType": "io.gitee.birdsofprey.properties.AlpacaProperties",
+      "defaultValue": "zookeeper"
+    },
+    {
+      "name": "alpaca.registry-url",
+      "type": "java.lang.String",
+      "description": "注册中心ip:port.",
+      "sourceType": "io.gitee.birdsofprey.properties.AlpacaProperties"
+    },
+    {
+      "name": "alpaca.serializer",
+      "type": "java.lang.String",
+      "description": "通信序列化方式.",
+      "sourceType": "io.gitee.birdsofprey.properties.AlpacaProperties",
+      "defaultValue": "hessian"
+    },
+    {
+      "name": "alpaca.weight",
+      "type": "java.lang.Integer",
+      "description": "Provider权重.",
+      "sourceType": "io.gitee.birdsofprey.properties.AlpacaProperties",
+      "defaultValue": 10
+    }
+  ],
+  "hints": []
+}
